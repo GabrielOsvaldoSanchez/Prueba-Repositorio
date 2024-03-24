@@ -1,1 +1,1 @@
-print("Penesito")
+print("Destruir")
